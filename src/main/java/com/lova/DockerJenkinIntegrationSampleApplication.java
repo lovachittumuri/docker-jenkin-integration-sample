@@ -16,6 +16,9 @@ public class DockerJenkinIntegrationSampleApplication implements CommandLineRunn
 
 		System.out.println(
 				"Hello World! This is a sample Spring Boot application running in Docker and integrated with Jenkins.");
+		
+		ystem.out.println(
+				"Hello World! This is a sample Spring Boot application running in Docker and integrated with Jenkins.");
 
 	}
 
